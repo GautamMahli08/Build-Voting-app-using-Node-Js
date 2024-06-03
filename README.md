@@ -19,12 +19,6 @@ This is a backend application for a voting system where users can vote for candi
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Prince-1501/voting_app.git
-
-
 # API Endpoints
 
 ## Authentication
